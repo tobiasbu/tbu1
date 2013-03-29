@@ -1,0 +1,60 @@
+
+header {
+	height: 190px;
+}
+
+
+.header-content {
+	max-width: 758px;
+	margin: auto;
+	}
+
+.brand {
+	bottom: 0px;
+}
+
+.menu-panel {
+	padding-top: 175px;
+	margin: auto;
+}
+
+.content-frame {
+	max-width: 730px;
+}
+
+.content-frame2 {
+	max-width: 730px;
+
+}
+
+.content-frame3 {
+	border-left: 351px solid #fff; 
+	border-right: 351px solid #fff; 
+	
+}
+
+.post-content {
+	max-width: 744px;
+	}
+
+.post-page {
+	max-width: 694px;
+}
+
+.post-thumbnail img {
+	height: 138px;
+	width: 638px;
+}
+
+.footer-content {
+	max-width: 744px;
+}
+
+.footer-collum {
+	width: 30%;
+	}
+
+.copyright {
+	width: 758px;
+
+}

@@ -1,0 +1,94 @@
+
+header {
+	height: 80px;
+}
+
+.header-content {
+	max-width: 292px;
+	margin: auto;
+	}
+
+.brand {
+	width: 185px;
+	height: 50px;
+	top: -130px;
+}
+
+#menu-left li{
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+#menu-right li{
+	padding-left: 2px;
+	padding-right: 2px;
+}
+
+.content-frame {
+	max-width: 276px;
+}
+
+.content-frame2 {
+	max-width: 276px;
+}
+
+.content-frame3 {
+	border-left: 124px solid #fff; 
+	border-right: 124px solid #fff; 
+}
+
+h2 {
+	padding-left: 5px;
+}
+
+.date {
+	margin-bottom: 5px;
+	padding-left: 5px;
+}
+
+.post {
+	padding: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.post-content {
+	padding-top: 5px;
+	max-width: 290px;
+	}
+
+.post-page {
+	max-width: 268px;
+}
+
+.post-thumbnail img {
+	height: 89px;
+	width: 240px;
+}
+
+.footer-content {
+	max-width: 290px;
+}
+
+.footer-collum {
+	width: 30%;
+	}
+
+.copyright {
+	width: 290px;
+}
+
+.copyright-box {
+	max-width: 292px;
+	}
+
+.copyright-left {
+	max-width: 110px;
+	padding-top: 10px;
+	}
+
+.copyright-right {
+	max-width: 110px;
+	padding-top: 10px;
+	padding-right: 10px;
+	}
